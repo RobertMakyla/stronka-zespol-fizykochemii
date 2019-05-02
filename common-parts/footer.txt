@@ -1,7 +1,7 @@
     </div>
 
     <div id="footer">
-        E-mail: dynarowi@chemia.uj.edu.pl
+        E-mail: makyla@chemia.uj.edu.pl
     </div>
 </div>
 </body>
