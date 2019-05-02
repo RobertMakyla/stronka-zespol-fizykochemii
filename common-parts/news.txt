@@ -1,0 +1,20 @@
+<!--h3>Ostatnio dodane :</h3>
+
+<h4>Dydaktyka</h4>
+<p>
+  Szanowni Państwo w zakładce Konwersatorium umieściłam...<br/>
+  <a href="dydaktyka.html#news-number-1">Czytaj więcej</a>
+</p>
+
+<br/-->
+
+
+
+
+<!--h3>Useful Links</h3>
+<ul>
+  <li><a href="#">link 1</a></li>
+  <li><a href="#">link 2</a></li>
+  <li><a href="#">link 3</a></li>
+  <li><a href="#">link 4</a></li>
+</ul-->

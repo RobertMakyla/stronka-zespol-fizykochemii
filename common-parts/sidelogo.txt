@@ -1,0 +1,10 @@
+        <div class="sidelogo">
+
+           <!--a href="https://www.uj.edu.pl/">
+              <img width=30% height=30% src="style/images/uj_logo.jpeg"/>
+           </a-->
+
+           <!--br/-->
+
+
+        </div>
