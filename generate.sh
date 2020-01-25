@@ -132,24 +132,18 @@ main () {
    menubarPagesMap=( "index.html:Kontakt"
                   "czlonkowie.html:Członkowie zespołu"
                   "badania.html:Badania"
-                  "dydaktyka.html:Dydaktyka"
                   "publikacje.html:Publikacje"
-                  "konferencje.html:Konferencje"
-                  "prace_licencjackie.html:PRACE licencjackie"
-                  "prace_magisterskie.html:PRACE magisterskie"
-                  "prace_doktorskie.html:PRACE doktorskie"
+                  "prace_dyplomowe.html:Prace dyplomowe"
+                  "dydaktyka.html:Dydaktyka"
                   )
 
 
    staticPagesMap=( "index.html:Kontakt"
                   "czlonkowie.html:Członkowie zespołu"
                   "badania.html:Badania"
-                  "dydaktyka.html:Dydaktyka"
                   "publikacje.html:Publikacje"
-                  "konferencje.html:Konferencje"
-                  "prace_licencjackie.html:Prace licencjackie"
-                  "prace_magisterskie.html:Prace magisterskie"
-                  "prace_doktorskie.html:Prace doktorskie"
+                  "prace_dyplomowe.html:Prace dyplomowe"
+                  "dydaktyka.html:Dydaktyka"
                   )
 
    # generating main pages
