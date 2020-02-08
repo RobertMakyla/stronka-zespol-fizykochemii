@@ -14,6 +14,10 @@ p
 { padding: 0 0 15px 0;
   line-height: 1.5em;}
 
+p2
+{ padding: 0px 0px 15px 0px;
+  line-height: 1.8em;}
+
 img
 { border: 0;}
 
@@ -129,7 +133,7 @@ ol li
 }
 
 #logo h1, #logo h2
-{ font: normal 250% 'century gothic', arial, sans-serif;
+{ font: normal 300% 'century gothic', arial, sans-serif;
   border-bottom: 0;
   text-transform: none;
   margin: 0;}
@@ -164,7 +168,7 @@ ul#menu li
 
 ul#menu li a
 { letter-spacing: 0.1em;
-  font: normal 83% arial, sans-serif;
+  font: normal 105% arial, sans-serif;
   display: block; 
   float: left; 
   height: 31px;                   /* wysokosc glownego paska menu */
