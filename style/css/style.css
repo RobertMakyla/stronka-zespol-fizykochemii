@@ -112,7 +112,7 @@ ol li
 #logo
 { width: 88%;
   position: relative;
-  height: 170px;}
+  height: 180px;}
 
 #logo #logo_text 
 { position: absolute; 
@@ -249,8 +249,8 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 #footer
 { width: 100%;   /* usuniecie marginesów po prawej i lewej */
   font: normal 85% 'lucida sans unicode', arial, sans-serif;
-  height: 33px;
-  padding: 17px 0 0px 0;
+  height: 28px;
+  padding: 15px 0 0px 0;
   text-align: center; 
   background: #24559e;
   color: #FFF;
