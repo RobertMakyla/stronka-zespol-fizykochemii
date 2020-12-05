@@ -154,7 +154,7 @@ ol li
 
 #menubar
 { width: 100%;   /* usuniecie marginesów po prawej i lewej */
-  height: 50px;            /* grubosc glownego paska menu */
+  height: 40px;            /* grubosc glownego paska menu */
   padding: 0;
   background: #24559e;}
 
@@ -168,11 +168,11 @@ ul#menu li
 
 ul#menu li a
 { letter-spacing: 0.1em;
-  font: normal 105% arial, sans-serif;
+  font: normal 90% arial, sans-serif;
   display: block; 
   float: left; 
-  height: 31px;                   /* wysokosc glownego paska menu */
-  padding: 17px 20px 1px 20px;     /* padding glownego paska menu */
+  height: 28px;                   /* wysokosc glownego paska menu */
+  padding: 13px 20px 1px 20px;     /* padding glownego paska menu */
   text-align: center;
   color: #FFF;
   text-transform: uppercase;
