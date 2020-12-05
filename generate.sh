@@ -133,6 +133,7 @@ main () {
                   "czlonkowie.html:Członkowie zespołu"
                   "badania.html:Badania"
                   "publikacje.html:Publikacje"
+                  "osiagniecia.html:Osiągnięcia"
                   "prace_dyplomowe.html:Prace dyplomowe"
                   "dydaktyka.html:Dydaktyka"
                   )
@@ -142,6 +143,7 @@ main () {
                   "czlonkowie.html:Członkowie zespołu"
                   "badania.html:Badania"
                   "publikacje.html:Publikacje"
+                  "osiagniecia.html:Osiągnięcia"
                   "prace_dyplomowe.html:Prace dyplomowe"
                   "dydaktyka.html:Dydaktyka"
                   )
